@@ -27,5 +27,5 @@ A simple **Java console-based application** that converts temperature between **
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+
+https://github.com/kartik-more/Temperature_Converter
