@@ -6,7 +6,7 @@ A simple **Java console-based application** that converts temperature between **
 
 ## 📌 Features
 
-- Convert:
+- Convert: 
   - Celsius → Fahrenheit & Kelvin
   - Fahrenheit → Celsius & Kelvin
   - Kelvin → Celsius & Fahrenheit
